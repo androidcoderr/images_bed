@@ -40,7 +40,7 @@ CREATE TABLE IF NOT EXISTS imginfo (
 
 *[鉴黄api部署](https://github.com/x-dr/nsfwjs-api)*
 
-> `ModerateContentApiKey` 请前往 [https://moderatecontent.com/] (https://moderatecontent.com/)注册免费获取API key
+> `ModerateContentApiKey` 请前往 [https://moderatecontent.com/] (https://moderatecontent.com/ "注册免费获取API key")
 
 | 变量名称      | 值 |
 | ----------- | ----------- |
